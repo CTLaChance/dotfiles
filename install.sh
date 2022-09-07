@@ -1,4 +1,4 @@
-#!/bin/ bash
+#!/usr/bin/env bash
 
 #Install fonts used by Powerlevel10k.
 wget --directory-prefix=/usr/share/fonts https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf

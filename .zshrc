@@ -111,4 +111,4 @@ DISABLE_UPDATE_PROMPT=true
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
 # To customize prompt, run `p10k configure` or edit /tmp/vscode-zsh/.p10k.zsh.
-[[ ! -f /tmp/vscode-zsh/.p10k.zsh ]] || source /tmp/vscode-zsh/.p10k.zsh
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
